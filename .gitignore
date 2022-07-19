@@ -1,0 +1,11 @@
+/view/node_modules/
+/view/.expo/
+/view/npm-debug.*
+/view/*.jks
+/view/*.p8
+/view/*.p12
+/view/*.key
+/view/*.mobileprovision
+/view/*.orig.*
+/view/web-build/
+/backend/node_modules
